@@ -24,6 +24,7 @@ This is a simple yet engaging quiz application designed to help users test their
 
 
 
+
 ##Capabilities
 
 The application enables users to:
